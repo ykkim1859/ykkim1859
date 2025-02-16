@@ -26,14 +26,6 @@
 </p>
 
 </br>
-
-<h3 align="center">📚 Studying Blog 📚</h3>
-
-<p align="center"><a href="https://blog.naver.com/ykkim1859">📗 Naver Blog</a></p>
-<p align="center"><a href="https://ykkim1859.github.io">📕 Github Pages</a></p>
-
-</br>
-
 <h3 align="center">🪪 Certificate 🪪</h3>
 
 <p align="center">
